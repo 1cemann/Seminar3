@@ -1,0 +1,15 @@
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\bin\Debug\net6.0\TestForConstruction.exe
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\bin\Debug\net6.0\TestForConstruction.deps.json
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\bin\Debug\net6.0\TestForConstruction.runtimeconfig.json
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\bin\Debug\net6.0\TestForConstruction.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\bin\Debug\net6.0\TestForConstruction.pdb
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.csproj.AssemblyReference.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.AssemblyInfoInputs.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.AssemblyInfo.cs
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\refint\TestForConstruction.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.pdb
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\TestForConstruction.genruntimeconfig.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestForConstruction\obj\Debug\net6.0\ref\TestForConstruction.dll
