@@ -1,0 +1,15 @@
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.csproj.AssemblyReference.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\bin\Debug\net6.0\Task20.exe
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\bin\Debug\net6.0\Task20.deps.json
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\bin\Debug\net6.0\Task20.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\bin\Debug\net6.0\Task20.pdb
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\refint\Task20.dll
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.pdb
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\Task20\obj\Debug\net6.0\ref\Task20.dll
