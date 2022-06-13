@@ -11,7 +11,7 @@ Clear();
 Write("Input quater ");
 int quater = int.Parse(ReadLine());
 
-if (quater==1) WriteLine("x>0,y>0");
-if (quater==2) WriteLine("x<=0,y>0");
-if (quater==3) WriteLine("x<0,y<0");
-if (quater==4) WriteLine("x>0,y<=0");
+if (quater == 1) WriteLine("x>0,y>0");
+if (quater == 2) WriteLine("x<=0,y>0");
+if (quater == 3) WriteLine("x<0,y<0");
+if (quater == 4) WriteLine("x>0,y<=0");

@@ -1,0 +1,5 @@
+C:\Users\Mad\Desktop\Seminar3(C#)\TestSwitchCase\obj\Debug\net6.0\TestSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestSwitchCase\obj\Debug\net6.0\TestSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mad\Desktop\Seminar3(C#)\TestSwitchCase\obj\Debug\net6.0\TestSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Mad\Desktop\Seminar3(C#)\TestSwitchCase\obj\Debug\net6.0\TestSwitchCase.AssemblyInfo.cs
+C:\Users\Mad\Desktop\Seminar3(C#)\TestSwitchCase\obj\Debug\net6.0\TestSwitchCase.csproj.CoreCompileInputs.cache
